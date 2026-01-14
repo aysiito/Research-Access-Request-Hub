@@ -2,7 +2,7 @@
 
 This repository contains the code/data for the research paper:
 **Interventions to increase adherence to antiretroviral therapy in people living with HIV – what works?: a systematic review and meta-analysis**
-(DOI: Pending)
+(DOI:https://doi.org/10.1080/09540121.2025.2598805)
 
 🔑 **How to Request Access**
 To request access to the private repository, follow these steps:
